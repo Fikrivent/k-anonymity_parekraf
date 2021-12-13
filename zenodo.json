@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {   
+            "affiliation": "Departemen Sistem Informasi Institut Teknologi Sepuluh Nopember",
+            "name": "Baharuddin, Fikri"
+        },
+        {   
+            "affiliation": "Departemen Sistem Informasi Institut Teknologi Sepuluh Nopember",
+            "name": "Rakhmawati, Nur Aini"
+        }
+    ],    
+
+    "license": "Apache-2.0",
+
+    "title": "Mondrian Multidimensional K-Anonymity Implementation Package",
+
+    "keywords": ["Anonymization", "K-Anonymity", "Mondrian"]
+}
